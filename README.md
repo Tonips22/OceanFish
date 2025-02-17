@@ -1,5 +1,7 @@
 # Ocean Fish - Blender Animation
 
+https://github.com/user-attachments/assets/9088ca79-6374-495a-b142-659b9c352c74
+
 ## Authors
 **Sara Liñan Heredia**  
 **Antonio García Torres**
@@ -14,7 +16,7 @@ This decision allowed us to focus on creating a visually appealing environment a
 ---
 
 ## Project Description
-This project consists of a **Blender animation** of a fish swimming in an underwater environment. Blender's suite of tools was used to model, animate, and render the scene.
+This project consists of a **Blender animation** of a fish swimming in an underwater environment. Blender's suite of tools was used to animate, and render the scene.
 
 The main features of the animation include:
 - **3D Fish modeling** using references from Sketchfab.
@@ -57,3 +59,4 @@ This project is distributed under an **open license**, allowing anyone to use, m
 - 3D Models: [Sketchfab](https://sketchfab.com/)
 - Video Tutorials: [YouTube1](https://www.youtube.com/watch?v=OeQfq-Sc-lM) [YouTube2](https://www.youtube.com/watch?v=sxWJqMJdL04)
 - Blender Documentation: [Blender Official Docs](https://docs.blender.org/)
+
